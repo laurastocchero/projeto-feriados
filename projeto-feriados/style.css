@@ -1,0 +1,29 @@
+/* Estilos personalizados */
+
+/* Define a fonte padrão da página como Arial ou uma fonte sans-serif alternativa */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa; /* Define a cor de fundo da página (cinza claro) */
+}
+
+/* Estiliza o título principal (h1) */
+h1 {
+    color: #333; /* Define a cor do texto do título como um cinza escuro */
+}
+
+/* Estiliza os blocos de feriados */
+.feriado {
+    background-color: #ffffff; /* Define o fundo dos blocos de feriados como branco */
+    padding: 15px; /* Adiciona espaço interno ao redor do conteúdo (espaçamento) */
+    margin: 10px 0; /* Adiciona margem externa acima e abaixo de cada bloco */
+    border-left: 5px solid #0d6efd; /* Adiciona uma borda azul à esquerda para destacar */
+    border-radius: 8px; /* Arredonda as bordas dos blocos para um visual mais suave */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Adiciona uma sombra sutil para dar profundidade */
+}
+
+/* Estiliza as mensagens de erro */
+.erro {
+    color: red; /* Define a cor do texto das mensagens de erro como vermelho */
+    font-weight: bold; /* Deixa o texto em negrito para destacar a mensagem */
+    text-align: center; /* Centraliza o texto horizontalmente */
+}
